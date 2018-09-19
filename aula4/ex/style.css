@@ -1,0 +1,42 @@
+*{
+    color: white;
+    text-align: center;
+}
+div{
+    width: 100vw;
+    height: 100vh;
+    background-color: #353535;
+}
+header{
+    border: 1px dashed pink;
+    height: 10%;
+    border-radius: 10px;
+}
+article{
+    border: 1px dashed pink;
+    height:80%;
+    border-radius: 10px;
+}
+footer{
+    border: 1px dashed pink;
+    height: 10%;
+    border-radius: 10px;
+}
+aside{
+    border: 1px dashed pink;
+    width: 25%;
+    border-radius: 10px;
+
+}
+nav{
+    width: 25%;
+    border-radius: 10px;
+}
+.primeiroQuadradoAzul{
+    border: 2px solid blue;
+    height: 80%;
+    display:flex;
+}
+.sectionDois{
+    width: 50%;
+}
